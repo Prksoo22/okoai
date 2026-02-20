@@ -1,0 +1,27 @@
+{
+  "name": "@itsreimau/gktw",
+  "version": "1.5.21",
+  "description": "Useless Baileys Wrapper",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "keywords": [
+    "baileys-wrapper"
+  ],
+  "author": "Reimau von Lilitz",
+  "license": "MIT",
+  "dependencies": {
+    "@cacheable/node-cache": "^2.0.1",
+    "@mengkodingan/consolefy": "^1.0.1",
+    "@neoxr/helper": "^2.3.9",
+    "baileys": "github:Itsukichann/Baileys",
+    "didyoumean": "^1.2.2",
+    "glob": "^13.0.3",
+    "mime-types": "^2.1.35",
+    "pino": "^10.3.1",
+    "safety-safe": "^3.0.0",
+    "simpl.db": "^2.13.0",
+    "vcard-parser": "^1.0.0"
+  }
+}
