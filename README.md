@@ -1,7 +1,7 @@
 # INI ADALAH BAILEYS RESMI OKOAI - OFFICIAL
 
 > [!NOTE]
-> Clone dari : [@mengkodingan/ckptw](https://npmjs.com/package/@mengkodingan/ckptw) ** dan dikembangkan dalam bentuk sebaik-baiknya oleh Prksoo : https://github.com/Prksoo22/okoai**.
+> Clone dari : [@mengkodingan/ckptw](https://npmjs.com/package/@mengkodingan/ckptw) ** dan dikembangkan dalam bentuk sebaik-baiknya oleh Prksoo : https://github.com/Prksoo22/okoai.**
 
 > [!MEDIA SOSIAL]
 > - IG : Prks.adiw
