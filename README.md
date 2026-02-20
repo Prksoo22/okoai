@@ -1,32 +1,22 @@
-# @itsreimau/gktw - Useless Baileys Wrapper
+# INI ADALAH BAILEYS RESMI OKOAI - OFFICIAL
 
 > [!NOTE]
->
-> This is a custom fork of [@mengkodingan/ckptw](https://npmjs.com/package/@mengkodingan/ckptw) **only for [gaxtawu](https://github.com/itsreimau/gaxtawu)**.
->
-> 🚫 **Not recommended for other projects** – consider these alternatives instead:
->
-> - [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb)
-> - [wachan](https://www.npmjs.com/package/wachan)
-> - [zaileys](https://www.npmjs.com/package/zaileys)
->
-> 🔧 Original functions remain (see [original docs](https://npmjs.com/package/@mengkodingan/ckptw)).
+> Clone dari : [@mengkodingan/ckptw](https://npmjs.com/package/@mengkodingan/ckptw) ** dan dikembangkan dalam bentuk sebaik-baiknya oleh Prksoo : https://github.com/Prksoo22/okoai**.
 
-## 📥 Installation
+## CARA MENERAPKAN KE SCRIPT ANDA
 
 ```bash
-npm install github:itsreimau/gktw
+npm install github:Prksoo22/okoai
 ```
 
-## 🙏 Acknowledgements
+## TERIMAKASIH PADA
 
 Special thanks to:
+- Prksoo22 : Developer of OkoAi.
+- Itsreimaru : Penyedia base baileys.
+- Amara : Support Bot (Pelanggan Harian).
+- Armarket : Support Bot (Penyedia Server)
 
-- [Jastin Linggar Tama](https://github.com/JastinXyz) for original ckptw
-- [Itsukiiiii](https://github.com/Itsukichann) for Baileys modification
-- [WhiskeySockets](https://github.com/WhiskeySockets) for Baileys maintenance
-- All contributors and users
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
