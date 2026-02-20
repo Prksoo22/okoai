@@ -3,6 +3,11 @@
 > [!NOTE]
 > Clone dari : [@mengkodingan/ckptw](https://npmjs.com/package/@mengkodingan/ckptw) ** dan dikembangkan dalam bentuk sebaik-baiknya oleh Prksoo : https://github.com/Prksoo22/okoai**.
 
+> [!MEDIA SOSIAL]
+> - IG : Prks.adiw
+> - TT : Prksoo
+> - WA : wa.me/6287776332236 (Layanan Costumer Service)
+
 ## CARA MENERAPKAN KE SCRIPT ANDA
 
 ```bash
